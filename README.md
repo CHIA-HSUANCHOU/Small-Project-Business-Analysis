@@ -1,7 +1,13 @@
 # Small-Project-Business-Analysis
 
+---
+Project: Business-Analysis
 
+Date: 2023-11
 
+Course: R in Business-Analysis
+
+---
 
 ## Project Description:
 ### **Airline Passenger Satisfaction**
@@ -19,7 +25,7 @@ Analyze financial statements to understand company characteristics. Use dimensio
 2. Identify the key variables for the top three principal components and explain their significance.
 
 3. Identify companies suitable for investment. (There is no need to specify which companies, just explain based on the first principal component. For example, companies with a high return on assets may be good investment choices.)
-4. 
+
 ### **A/B test**
 The company has developed a new web page to try and increase the number of users who “convert,” meaning the number of users who decide to pay for the company’s product.
 
