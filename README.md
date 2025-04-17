@@ -12,15 +12,15 @@ Course: R in Business-Analysis
 ## Project Description:
 ### **Airline Passenger Satisfaction**
 1. Predict passenger satisfaction.
-Choose a supervised learning method to predict passenger satisfaction. Identify the factors that are highly correlated with a satisfied (or dissatisfied) passenger.
+Choose a **supervised learning method** to predict passenger satisfaction. Identify the factors that are highly correlated with a satisfied (or dissatisfied) passenger.
 
 2. Customer segmentation
-Choose one unsupervised method to divide customers into groups based on common characteristics so companies can market to each group effectively and appropriately.
+Choose one **unsupervised method** to divide customers into groups based on common characteristics so companies can market to each group effectively and appropriately.
 
 ### **Analysis of financial indexes**
 Analyze financial statements to understand company characteristics. Use dimensionality reduction techniques to identify meaningful indicators for evaluating high-performing companies.
 
-1. Use PCA (Principal Component Analysis) or SPCA (Sparse PCA) to determine how much variance each principal component explains. Estimate how many principal components are needed to explain the dataset.
+1. Use **PCA (Principal Component Analysis) or SPCA (Sparse PCA)** to determine how much variance each principal component explains. Estimate how many principal components are needed to explain the dataset.
 
 2. Identify the key variables for the top three principal components and explain their significance.
 
